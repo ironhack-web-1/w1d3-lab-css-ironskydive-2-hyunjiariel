@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
 
-* {
+html,
+body {
   font-family: Roboto;
 font-size: 10px;
 line-height: 3.5em;
@@ -21,7 +22,7 @@ h6 {
 }
 
 .nav-bar {
-  background-color: hsl(240, 100%, 27%) !important;}
+  background-color: rgb(25, 33, 41) !important;}
 .nav-bar a {
   color: white;
   text-decoration: none;
@@ -88,7 +89,7 @@ h5 {
 .link-btn {
     background-color: rgb(67, 163, 230);
     color: white;
-    font-family: Roboto-Condensed;
+    font-family: Roboto Condensed;
     font-size: 2em;
     letter-spacing: 0.5px;
     text-align: center;
